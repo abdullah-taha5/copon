@@ -198,27 +198,11 @@ class CourseController extends Controller
         
                         }
                     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    
-    
                 }
             }
             DB::commit();
-            dd('check');
-    } catch (\Throwable $th) {
+            return redirect()->route('admin.courses.index')->with('success', __('global.created_successfully'));
+        } catch (\Throwable $th) {
         DB::rollBack();
         throw $th;
     }
@@ -226,7 +210,6 @@ class CourseController extends Controller
 
         //  $this->service->update($request, $course);
 
-        return redirect()->route('admin.courses.index')->with('success', __('global.created_successfully'));
     }
 
     public function destroy(Course $course)
