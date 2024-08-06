@@ -66,7 +66,7 @@
                     </div>
                     <div class="form-group mb-2 {{ $errors->has('course.is_published') ? 'invalid' : '' }}">
                         <label class="switch">
-                            <input type="checkbox" class="switch-input" name="is_published" {{ $course->is_published == 1 ? 'checked' : '' }}>
+                            <input type="checkbox" class="switch-input" name="is_published" {{ old('is_published') == 1 ? 'checked' : '' }}>
                             <span class="switch-toggle-slider">
                                 <span class="switch-on">
                                     <i class="ti ti-check"></i>
