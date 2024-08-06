@@ -82,7 +82,7 @@ class CourseController extends Controller
         DB::beginTransaction();
         
 
-       // try {
+      try {
             if ($request->units != null) {
                 foreach ($request->units as $status => $array) {
                     if($status == 'old') {
@@ -135,11 +135,16 @@ class CourseController extends Controller
 
                         }
                     } else {
-                        foreach ($array as $number => $unitOp) {
-                            $unit = Unit::create([
-                                'name' => $unitOp['title'],
-                                'course_id' => $course->id
-                            ]);
+                        foreach ($array as $UnitID => $unitOp) {
+                            if(isset($unitOp['title'])) {
+                                $unit = Unit::create([
+                                    'name' => $unitOp['title'],
+                                    'course_id' => $course->id
+                                ]);
+                            } else {
+                                $unit = Unit::find($UnitID);
+                            }
+                           
                             if (isset($unitOp['lessons'])) {
                                 if (isset($unitOp['lessons']['new'])) {
                                     foreach ($unitOp['lessons']['new'] as $number => $lesson) {
@@ -162,11 +167,17 @@ class CourseController extends Controller
         
                             if (isset($unitOp['quizzes'])) {
                                 if (isset($unitOp['quizzes']['new'])) {
-                                    foreach ($unitOp['quizzes']['new'] as $number => $quiz) {
-                                        $quizModel = Quiz::create([
-                                            'title' => $quiz['title'],
-                                            'unit_id' => $unit->id,
-                                        ]);
+                                    foreach ($unitOp['quizzes']['new'] as $QuizID => $quiz) {
+
+                                        if(isset($quiz['title'])) {
+                                            $quizModel = Quiz::create([
+                                                'title' => $quiz['title'],
+                                                'unit_id' => $unit->id,
+                                            ]);
+                                        } else {
+                                            $quizModel = Quiz::find($QuizID);
+                                        }
+            
                                         if (isset($quiz['questions'])) {
                                             foreach ($quiz['questions'] as $number => $question) {
                                                 $question1 = $quizModel->questions()->create([
@@ -207,13 +218,13 @@ class CourseController extends Controller
             }
             DB::commit();
             dd('check');
-    /* } catch (\Throwable $th) {
+    } catch (\Throwable $th) {
         DB::rollBack();
-        dd($th->getMessage());
-    } */
+        throw $th;
+    }
 
 
-        $this->service->update($request, $course);
+        //  $this->service->update($request, $course);
 
         return redirect()->route('admin.courses.index')->with('success', __('global.created_successfully'));
     }

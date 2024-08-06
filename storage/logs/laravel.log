@@ -19909,3 +19909,171 @@ Stack trace:
 #4 /home/omar/omar/Marketopia/coupon-demo/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
 #5 {main}
 "} 
+[2024-08-06 13:33:38] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:40] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:40] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:43] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:44] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:49] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:54] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:55] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:33:59] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:00] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:04] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:09] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:19] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:24] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:29] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:34] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:37] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:42] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:44] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:49] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:54] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:34:59] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:04] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:09] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:14] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:19] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:24] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:29] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:34] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:39] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:44] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-08-06 13:35:49] local.ERROR: Trait "Illuminate\Console\Prohibitable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Console\\Prohibitable\" not found at /home/omar/omar/Marketopia/copon/vendor/nwidart/laravel-modules/src/Commands/BaseCommand.php:17)
+[stacktrace]
+#0 {main}
+"} 
